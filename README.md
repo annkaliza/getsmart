@@ -1,0 +1,2 @@
+# getsmart
+barebones php framework.
